@@ -32,3 +32,4 @@ git push heroku main --force
 - If you don't like to update automatically, go to *Settings* -> *Actions* -> *General* on the forked repo and select *Disable Actions*
 > **Note:** For [Deploying with Workflow](https://github.com/l3v11/Jackett-heroku#deploying-with-workflow) method only
 
+
